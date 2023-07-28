@@ -1,3 +1,7 @@
+The fork has CMakeLists.txt setup so AudioFFT can be used as a library.
+
+
+
 AudioFFT
 ========
 

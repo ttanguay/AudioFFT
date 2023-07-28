@@ -25,7 +25,7 @@
 #include <cstdio>
 #include <cstdlib>
 
-#include "../AudioFFT.h"
+#include <AudioFFT.h>
 
 
 #define TEST_CORRECTNESS
